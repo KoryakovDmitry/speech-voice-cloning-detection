@@ -1,0 +1,6 @@
+replicate==0.25.1
+jupyter==1.0.0
+scikit-learn
+matplotlib
+python-dotenv==1.0.1
+pydub==0.25.1
